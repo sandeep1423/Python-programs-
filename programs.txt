@@ -1,0 +1,90 @@
+Basic Python programs
+Python program to print "Hello Python"
+Python program to do arithmetical operations
+Python program to find the area of a triangle
+Python program to solve quadratic equation
+Python program to swap two variables
+Python program to generate a random number
+Python program to convert kilometers to miles
+Python program to convert Celsius to Fahrenheit
+Python program to display calendar
+Python programs with conditions and loops
+Python Program to Check if a Number is Positive, Negative or Zero
+Python Program to Check if a Number is Odd or Even
+Python Program to Check Leap Year
+Python Program to Check Prime Number
+Python Program to Print all Prime Numbers in an Interval
+Python Program to Find the Factorial of a Number
+Python Program to Display the multiplication Table
+Python Program to Print the Fibonacci sequence
+Python Program to Check Armstrong Number
+Python Program to Find Armstrong Number in an Interval
+Python Program to Find the Sum of Natural Numbers
+Python Function Programs
+Python Program to Find LCM
+Python Program to Find HCF
+Python Program to Convert Decimal to Binary, Octal and Hexadecimal
+Python Program To Find ASCII value of a character
+Python Program to Make a Simple Calculator
+Python Program to Display Calendar
+Python Program to Display Fibonacci Sequence Using Recursion
+Python Program to Find Factorial of Number Using Recursion
+Python Native Data Type Programs
+Python Program to Add Two Matrices
+Python Program to Multiply Two Matrices
+Python Program to Transpose a Matrix
+Python Program to Sort Words in Alphabetic Order
+Python Program to Remove Punctuation From a String
+Python Array Programs
+Python program to copy all elements of one array into another array
+Python program to find the frequency of each element in the array
+Python program to left rotate the elements of an array
+Python program to print the duplicate elements of an array
+Python program to print the elements of an array
+Python program to print the elements of an array in reverse order
+Python program to print the elements of an array present on even position
+Python program to print the elements of an array present on odd position
+Python program to print the largest element in an array
+Python program to print the smallest element in an array
+Python program to print the number of elements present in an array
+Python program to print the sum of all elements in an array
+Python program to right rotate the elements of an array
+Python program to sort the elements of an array in ascending order
+Python program to sort the elements of an array in descending order
+Python Number Programs
+Python program to check if the given number is a Disarium Number
+Python program to print all disarium numbers between 1 to 100
+Python program to check if the given number is Happy Number
+Python program to print all happy numbers between 1 and 100
+Python program to determine whether the given number is a Harshad Number
+Python program to print all pronic numbers between 1 and 100
+Python Circular Linked List Programs
+Python program to create a Circular Linked List of N nodes and count the number of nodes
+Python program to create a Circular Linked List of n nodes and display it in reverse order
+Python program to create and display a Circular Linked List
+Python program to delete a node from the beginning of the Circular Linked List
+Python program to delete a node from the end of the Circular Linked List
+Python program to delete a node from the middle of the Circular Linked List
+Python program to find the maximum and minimum value node from a circular linked list
+Python program to insert a new node at the beginning of the Circular Linked List
+Python program to insert a new node at the end of the Circular Linked List
+Python program to insert a new node at the middle of the Circular Linked List
+Python program to remove duplicate elements from a Circular Linked List
+Python program to search an element in a Circular Linked List
+Python program to sort the elements of the Circular Linked List
+Python Doubly Linked List Programs
+Python program to convert a given binary tree to doubly linked list
+Python program to create a doubly linked list from a ternary tree
+Python program to create a doubly linked list of n nodes and count the number of nodes
+Python program to create a doubly linked list of n nodes and display it in reverse order
+Python program to create and display a doubly linked list
+Python program to delete a new node from the beginning of the doubly linked list
+Python program to delete a new node from the end of the doubly linked list
+Python program to delete a new node from the middle of the doubly linked list
+Python program to find the maximum and minimum value node from a doubly linked list
+Python program to insert a new node at the beginning of the Doubly Linked list
+Python program to insert a new node at the end of the Doubly Linked List
+Python program to insert a new node at the middle of the Doubly Linked List
+Python program to remove duplicate elements from a Doubly Linked List
+Python program to rotate doubly linked list by N nodes
+Python program to search an element in a doubly linked list
